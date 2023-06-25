@@ -1,2 +1,5 @@
 def multiply(a,b):
-    return 1
+    return a * b
+
+# def multiply_2(a,b):
+#     return a * b
